@@ -4,7 +4,7 @@ const mineflayer = require('mineflayer');
 // Bot Configuration
 const ip = "novasprak.aternos.me"; // Server IP
 const port = 32289; // Server Port
-const botName = "TERABAAPHU"; // Bot Username
+const botName = "YOURDADDY"; // Bot Username
 const version = "1.12.1"; // Minecraft version, ensure compatibility with the server
 
 let activeBot = null; // Track the active bot instance
