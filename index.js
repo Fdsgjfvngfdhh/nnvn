@@ -14,7 +14,6 @@ const app = express();
 app.use(express.json());
 
 const serverPort = 3000; // Local server port
-
 // Function to create and connect the bot
 const createBotInstance = () => {
   if (activeBot) {
